@@ -302,5 +302,149 @@
             "subtribe": null,
             "genus": "Hoolock"
         }
+    },
+    {
+        "id": "p020",
+        "scientific": "Hylobates lar",
+        "common": "Lar Gibbon",
+        "aliases": ["White-Handed Gibbon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Hylobatidae",
+            "subfamily": null,
+            "subtribe": null,
+            "genus": "Hylobates"
+        }
+    },
+    {
+        "id": "p021",
+        "scientific": "Hylobates agilis",
+        "common": "Agile Gibbon",
+        "aliases": ["Black-Handed Gibbon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Hylobatidae",
+            "subfamily": null,
+            "subtribe": null,
+            "genus": "Hylobates"
+        }
+    },
+    {
+        "id": "p022",
+        "scientific": "Hylobates albibarbis",
+        "common": "Bornean White-Bearded Gibbon",
+        "aliases": ["Bornean Agile Gibbon", "Southern Gibbon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Hylobatidae",
+            "subfamily": null,
+            "subtribe": null,
+            "genus": "Hylobates"
+        }
+    },
+    {
+        "id": "p023",
+        "scientific": "Hylobates abbotti",
+        "common": "Western Grey Gibbon",
+        "aliases": ["Abbott's Grey Gibbon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Hylobatidae",
+            "subfamily": null,
+            "subtribe": null,
+            "genus": "Hylobates"
+        }
+    },
+    {
+        "id": "p024",
+        "scientific": "Hylobates funereus",
+        "common": "Eastern Grey Gibbon",
+        "aliases": ["Northern Grey Gibbon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Hylobatidae",
+            "subfamily": null,
+            "subtribe": null,
+            "genus": "Hylobates"
+        }
+    },
+    {
+        "id": "p025",
+        "scientific": "Hylobates muelleri",
+        "common": "Müller's Gibbon",
+        "aliases": ["Southern Grey Gibbon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Hylobatidae",
+            "subfamily": null,
+            "subtribe": null,
+            "genus": "Hylobates"
+        }
+    },
+    {
+        "id": "p026",
+        "scientific": "Hylobates moloch",
+        "common": "Silvery Gibbon",
+        "aliases": ["Javan Gibbon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Hylobatidae",
+            "subfamily": null,
+            "subtribe": null,
+            "genus": "Hylobates"
+        }
+    },
+    {
+        "id": "p027",
+        "scientific": "Hylobates pileatus",
+        "common": "Pileated Gibbon",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Hylobatidae",
+            "subfamily": null,
+            "subtribe": null,
+            "genus": "Hylobates"
+        }
+    },
+    {
+        "id": "p028",
+        "scientific": "Hylobates klossii",
+        "common": "Kloss's Gibbon",
+        "aliases": ["Mentawai Gibbon", "Bilou", "Dwarf Siamang"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Hylobatidae",
+            "subfamily": null,
+            "subtribe": null,
+            "genus": "Hylobates"
+        }
     }
 ]
