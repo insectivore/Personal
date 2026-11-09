@@ -1,0 +1,59 @@
+#tophalf {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+
+#lowerhalf {
+	display: flex;
+	align-items: center;
+}
+
+#bookcase {
+	display: flex;
+	align-items: center;
+	margin-top: 40px;
+	gap: 40px;
+}
+
+.case {
+	width: 500px;
+	height: 750px;
+	background-color: #a17b58;
+	
+}
+
+.inforow p {
+	margin: 0;
+}
+
+.inforow {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	margin-bottom: 12px;
+}
+	
+.lhalf {
+	font-weight: bold;
+}
+
+#scroll {
+	align-self: left;
+	width: 450px;
+	padding: 10px;
+	background-color: #f7e0ab
+}
+
+#secret {
+	width: 100px;
+	padding: 5px;
+	background-color: red;
+}
+
+#towncrier {
+	align-self: right;
+	width: 300px;
+	padding: 10px;
+	background-color: #abe4f7
+}

@@ -1,0 +1,22 @@
+.accordion-container {
+	background-color: green;
+}
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  background-color: blue;
+}
+
+.accordion-item {
+	background-color: yellow;
+}
+
+.accordion-header {
+	background-color: orange;
+}
+
+.accordion-item.active .accordion-content {
+  max-height: 200px;
+  background-color: red;
+}
