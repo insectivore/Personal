@@ -89,8 +89,6 @@ def game(engine: PrimateGameEngine):
 
     print("\n===========================================================================")
     print("Thus begins a game of Metaprima.")
-    print("A mystery primate has been selected! Type a common or scientific name to guess.")
-    print("Type 'q' to view keybinds.")
     print("===========================================================================\n")
 
     while moves > 0:
@@ -127,7 +125,7 @@ def game(engine: PrimateGameEngine):
                     print(">> No further taxonomic hints available for this species!")
         elif cmd == "g":
             print(f"\n>> You gave up! The mystery primate was: {get_name(target)}\n")
-            break
+            play_again(engine)
         elif cmd == "x":
             print("Goodbye!")
             sys.exit()
@@ -139,10 +137,10 @@ def game(engine: PrimateGameEngine):
             elif result["status"] == "CORRECT":
                 turns_taken = 20 - moves + 1
                 print("\n===========================================================================")
-                print(f"CORRECT! You identified the mystery primate in {turns_taken} turn(s)!")
+                print(f"CORRECT! You identified the mystery primate in {turns_taken} guess(es)!")
                 print(f"Species: {get_name(target)}")
-                print("===========================================================================")
-                break
+                print("===========================================================================\n")
+                play_again(engine)
             elif result["status"] == "INCORRECT":
                 moves -= 1
                 guessed_name = get_name(result["guessed_animal"])
@@ -155,11 +153,20 @@ def game(engine: PrimateGameEngine):
                 if moves == 0:
                     print("\n===========================================================================")
                     print(f"GAME OVER! Out of turns. The mystery primate was: {get_name(target)}")
-                    print("===========================================================================")
+                    print("===========================================================================\n")
+                    play_again(engine)
+
+def play_again(engine: PrimateGameEngine):
+    choice = input("Play again? [y/n] >> ").strip().lower()
+    if choice == "y":
+        game(engine)
+    else:
+        print("Goodbye!")
+        sys.exit()
 
 def menu(engine: PrimateGameEngine):
     print("===========================================================================")
-    print("Welcome to Metaprima! c(o.o)ↄ꠹")
+    print("Welcome to Metaprima! c(o.o)ↄ_/")
     print("===========================================================================")
     print()
     print("Metaprima is a hobby project directly based on Metazooa, a popular website ")
