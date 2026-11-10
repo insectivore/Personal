@@ -11,6 +11,7 @@
             "superfamily": "Hominoidea",
             "family": "Hominidae",
             "subfamily": "Homininae",
+            "tribe": "Hominini",
             "subtribe": "Hominina",
             "genus": "Homo"
         }
@@ -27,6 +28,7 @@
             "superfamily": "Hominoidea",
             "family": "Hominidae",
             "subfamily": "Homininae",
+            "tribe": "Hominini",
             "subtribe": "Panina",
             "genus": "Pan"
         }
@@ -43,6 +45,7 @@
             "superfamily": "Hominoidea",
             "family": "Hominidae",
             "subfamily": "Homininae",
+            "tribe": "Hominini",
             "subtribe": "Panina",
             "genus": "Pan"
         }
@@ -59,6 +62,7 @@
             "superfamily": "Hominoidea",
             "family": "Hominidae",
             "subfamily": "Homininae",
+            "tribe": "Gorillini",
             "subtribe": null,
             "genus": "Gorilla"
         }
@@ -75,6 +79,7 @@
             "superfamily": "Hominoidea",
             "family": "Hominidae",
             "subfamily": "Homininae",
+            "tribe": "Gorillini",
             "subtribe": null,
             "genus": "Gorilla"
         }
@@ -91,6 +96,7 @@
             "superfamily": "Hominoidea",
             "family": "Hominidae",
             "subfamily": "Ponginae",
+            "tribe": "Pongini",
             "subtribe": null,
             "genus": "Pongo"
         }
@@ -107,6 +113,7 @@
             "superfamily": "Hominoidea",
             "family": "Hominidae",
             "subfamily": "Ponginae",
+            "tribe": "Pongini",
             "subtribe": null,
             "genus": "Pongo"
         }
@@ -123,6 +130,7 @@
             "superfamily": "Hominoidea",
             "family": "Hominidae",
             "subfamily": "Ponginae",
+            "tribe": "Pongini",
             "subtribe": null,
             "genus": "Pongo"
         }
@@ -139,6 +147,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Symphalangus"
         }
@@ -155,6 +164,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Nomascus"
         }
@@ -171,6 +181,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Nomascus"
         }
@@ -187,6 +198,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Nomascus"
         }
@@ -203,6 +215,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Nomascus"
         }
@@ -219,6 +232,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Nomascus"
         }
@@ -235,6 +249,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Nomascus"
         }
@@ -251,6 +266,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Nomascus"
         }
@@ -267,6 +283,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hoolock"
         }
@@ -283,6 +300,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hoolock"
         }
@@ -299,6 +317,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hoolock"
         }
@@ -315,6 +334,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hylobates"
         }
@@ -331,6 +351,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hylobates"
         }
@@ -347,6 +368,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hylobates"
         }
@@ -363,6 +385,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hylobates"
         }
@@ -379,6 +402,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hylobates"
         }
@@ -395,6 +419,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hylobates"
         }
@@ -411,6 +436,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hylobates"
         }
@@ -427,6 +453,7 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hylobates"
         }
@@ -443,8 +470,2066 @@
             "superfamily": "Hominoidea",
             "family": "Hylobatidae",
             "subfamily": null,
+            "tribe": null,
             "subtribe": null,
             "genus": "Hylobates"
+        }
+    },
+    {
+        "id": "p029",
+        "scientific": "Allenopithecus nigroviridis",
+        "common": "Allen's Swamp Monkey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Allenopithecus"
+        }
+    },
+    {
+        "id": "p030",
+        "scientific": "Miopithecus talapoin",
+        "common": "Angolan Talapoin",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Miopithecus"
+        }
+    },
+    {
+        "id": "p031",
+        "scientific": "Miopithecus ogouensis",
+        "common": "Gabon Talapoin",
+        "aliases": ["Northern Talapoin"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Miopithecus"
+        }
+    },
+    {
+        "id": "p032",
+        "scientific": "Erythrocebus baumstarki",
+        "common": "Southern Patas Monkey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Erythrocebus"
+        }
+    },
+    {
+        "id": "p033",
+        "scientific": "Erythrocebus patas",
+        "common": "Common Patas Monkey",
+        "aliases": ["Hussar Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Erythrocebus"
+        }
+    },
+    {
+        "id": "p034",
+        "scientific": "Erythrocebus poliophaeus",
+        "common": "Blue Nile Patas Monkey",
+        "aliases": ["Heuglin's Patas Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Erythrocebus"
+        }
+    },
+    {
+        "id": "p035",
+        "scientific": "Chlorocebus aethiops",
+        "common": "Grivet",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Chlorocebus"
+        }
+    },
+    {
+        "id": "p036",
+        "scientific": "Chlorocebus cynosuros",
+        "common": "Malbrouck",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Chlorocebus"
+        }
+    },
+    {
+        "id": "p037",
+        "scientific": "Chlorocebus djamdjamensis",
+        "common": "Bale Mountains Vervet",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Chlorocebus"
+        }
+    },
+    {
+        "id": "p038",
+        "scientific": "Chlorocebus dryas",
+        "common": "Dryas Monkey",
+        "aliases": ["Salonga Monkey", "Ekele", "Inoko"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Chlorocebus"
+        }
+    },
+    {
+        "id": "p039",
+        "scientific": "Chlorocebus pygerythrus",
+        "common": "Vervet Monkey",
+        "aliases": ["Vervet"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Chlorocebus"
+        }
+    },
+    {
+        "id": "p040",
+        "scientific": "Chlorocebus sabaeus",
+        "common": "Green Monkey",
+        "aliases": ["Sabaeus Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Chlorocebus"
+        }
+    },
+    {
+        "id": "p041",
+        "scientific": "Chlorocebus tantalus",
+        "common": "Tantalus Monkey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Chlorocebus"
+        }
+    },
+    {
+        "id": "p042",
+        "scientific": "Allochrocebus lhoesti",
+        "common": "L'Hoest's Monkey",
+        "aliases": ["Mountain Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Allochrocebus"
+        }
+    },
+    {
+        "id": "p043",
+        "scientific": "Allochrocebus preussi",
+        "common": "Preuss's Monkey",
+        "aliases": ["Preuss's Guenon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Allochrocebus"
+        }
+    },
+    {
+        "id": "p044",
+        "scientific": "Allochrocebus solatus",
+        "common": "Sun-Tailed Monkey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Allochrocebus"
+        }
+    },
+    {
+        "id": "p045",
+        "scientific": "Cercopithecus mitis",
+        "common": "Blue Monkey",
+        "aliases": ["Diademed Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p046",
+        "scientific": "Cercopithecus campbelli",
+        "common": "Campbell's Mona Monkey",
+        "aliases": ["Campbell's Guenon", "Campbell's Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p047",
+        "scientific": "Cercopithecus pogonias",
+        "common": "Crested Mona Monkey",
+        "aliases": ["Crowned Guenon", "Crowned Monkey", "Golden-Bellied Guenon", "Golden-Bellied Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p048",
+        "scientific": "Cercopithecus neglectus",
+        "common": "De Brazza's Monkey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p049",
+        "scientific": "Cercopithecus denti",
+        "common": "Dent's Mona Monkey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p050",
+        "scientific": "Cercopithecus diana",
+        "common": "Diana Monkey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p051",
+        "scientific": "Cercopithecus nictitans",
+        "common": "Greater Spot-Nosed Monkey",
+        "aliases": ["Putty-Nosed Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p052",
+        "scientific": "Cercopithecus hamlyni",
+        "common": "Hamlyn's Monkey",
+        "aliases": ["Owl-Faced Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p053",
+        "scientific": "Cercopithecus petaurista",
+        "common": "Lesser Spot-Nosed Monkey",
+        "aliases": ["Lesser Spot-Nosed Guenon", "Lesser White-Nosed Guenon", "Lesser White-Nosed Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p054",
+        "scientific": "Cercopithecus lomamiensis",
+        "common": "Lesula",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p055",
+        "scientific": "Cercopithecus lowei",
+        "common": "Lowe's Mona Monkey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p056",
+        "scientific": "Cercopithecus mona",
+        "common": "Mona Monkey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p057",
+        "scientific": "Cercopithecus cephus",
+        "common": "Moustached Guenon",
+        "aliases": ["Moustached Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p058",
+        "scientific": "Cercopithecus erythrotis",
+        "common": "Red-Eared Guenon",
+        "aliases": ["Red-Eared Monkey", "Russet-Eared Guenon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p059",
+        "scientific": "Cercopithecus ascanius",
+        "common": "Red-Tailed Monkey",
+        "aliases": ["Black-Cheeked White-Nosed Monkey", "Red-Tailed Guenon", "Redtail Monkey", "Schmidt's Guenon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p060",
+        "scientific": "Cercopithecus roloway",
+        "common": "Roloway Monkey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p061",
+        "scientific": "Cercopithecus sclateri",
+        "common": "Sclater's Guenon",
+        "aliases": ["Sclater's Monkey", "Nigerian Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p062",
+        "scientific": "Cercopithecus erythrogaster",
+        "common": "White-Throated Guenon",
+        "aliases": ["Red-Bellied Monkey", "Red-Bellied Guenon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p063",
+        "scientific": "Cercopithecus wolfi",
+        "common": "Wolf's Mona Monkey",
+        "aliases": ["Wolf's Guenon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Cercopithecini",
+            "subtribe": null,
+            "genus": "Cercopithecus"
+        }
+    },
+    {
+        "id": "p064",
+        "scientific": "Macaca munzala",
+        "common": "Arunachal Macaque",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p065",
+        "scientific": "Macaca assamensis",
+        "common": "Assam Macaque",
+        "aliases": ["Assamese Macaque"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p066",
+        "scientific": "Macaca sylvanus",
+        "common": "Barbary Macaque",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p067",
+        "scientific": "Macaca radiata",
+        "common": "Bonnet Macaque",
+        "aliases": ["Zati"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p068",
+        "scientific": "Macaca ochreata",
+        "common": "Booted Macaque",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p069",
+        "scientific": "Macaca nigra",
+        "common": "Celebes Crested Macaque",
+        "aliases": ["Crested Black Macaque", "Sulawesi Crested Macaque", "Black Ape"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p070",
+        "scientific": "Macaca fascicularis",
+        "common": "Crab-Eating Macaque",
+        "aliases": ["Long-Tailed Macaque", "Cynomolgus Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p071",
+        "scientific": "Macaca cyclopis",
+        "common": "Formosan Rock Macaque",
+        "aliases": ["Formosan Rock Monkey", "Taiwanese Macaque"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p072",
+        "scientific": "Macaca nigrescens",
+        "common": "Gorontalo Macaque",
+        "aliases": ["Dumoga-bone Macaque"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p073",
+        "scientific": "Macaca hecki",
+        "common": "Heck's Macaque",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p074",
+        "scientific": "Macaca fuscata",
+        "common": "Japanese Macaque",
+        "aliases": ["Snow Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p075",
+        "scientific": "Macaca silenus",
+        "common": "Lion-Tailed Macaque",
+        "aliases": ["Wanderoo"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p076",
+        "scientific": "Macaca maura",
+        "common": "Moor Macaque",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p077",
+        "scientific": "Macaca leonina",
+        "common": "Northern Pig-Tailed Macaque",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p078",
+        "scientific": "Macaca pagensis",
+        "common": "Pagai Island Macaque",
+        "aliases": ["Pagai Macaque", "Bokkoi"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p079",
+        "scientific": "Macaca mulatta",
+        "common": "Rhesus Macaque",
+        "aliases": ["Rhesus Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p080",
+        "scientific": "Macaca siberu",
+        "common": "Siberut Macaque",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p081",
+        "scientific": "Macaca nemestrina",
+        "common": "Southern Pig-Tailed Macaque",
+        "aliases": ["Sundaland Pig-Tailed Macaque", "Sunda Pig-Tailed Macaque"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p082",
+        "scientific": "Macaca arctoides",
+        "common": "Stump-Tailed Macaque",
+        "aliases": ["Bear Macaque"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p083",
+        "scientific": "Macaca thibetana",
+        "common": "Tibetan Macaque",
+        "aliases": ["Père David's Macaque", "Chinese Stump-Tailed Macaque", "Milne-Edwards' Macaque"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p084",
+        "scientific": "Macaca tonkeana",
+        "common": "Tonkean Macaque",
+        "aliases": ["Tonkean Black Macaque"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p085",
+        "scientific": "Macaca sinica",
+        "common": "Toque Macaque",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p086",
+        "scientific": "Macaca leucogenys",
+        "common": "White-Cheeked Macaque",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Macaca"
+        }
+    },
+    {
+        "id": "p087",
+        "scientific": "Lophocebus aterrimus",
+        "common": "Black Crested Mangabey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Lophocebus"
+        }
+    },
+    {
+        "id": "p088",
+        "scientific": "Lophocebus albigena",
+        "common": "Grey-Cheeked Mangabey",
+        "aliases": ["White-Cheeked Mangabey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Lophocebus"
+        }
+    },
+    {
+        "id": "p089",
+        "scientific": "Rungwecebus kipunji",
+        "common": "Kipunji",
+        "aliases": ["Highland Mangabey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Rungwecebus"
+        }
+    },
+    {
+        "id": "p090",
+        "scientific": "Papio ursinus",
+        "common": "Chacma Baboon",
+        "aliases": ["Cape Baboon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Papio"
+        }
+    },
+    {
+        "id": "p091",
+        "scientific": "Papio papio",
+        "common": "Guinea Baboon",
+        "aliases": ["Savannah Baboon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Papio"
+        }
+    },
+    {
+        "id": "p092",
+        "scientific": "Papio hamadryas",
+        "common": "Hamadryas Baboon",
+        "aliases": ["Sacred Baboon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Papio"
+        }
+    },
+    {
+        "id": "p093",
+        "scientific": "Papio kindae",
+        "common": "Kinda Baboon",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Papio"
+        }
+    },
+    {
+        "id": "p094",
+        "scientific": "Papio anubis",
+        "common": "Olive Baboon",
+        "aliases": ["Anubis Baboon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Papio"
+        }
+    },
+    {
+        "id": "p095",
+        "scientific": "Papio cynocephalus",
+        "common": "Yellow Baboon",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Papio"
+        }
+    },
+    {
+        "id": "p096",
+        "scientific": "Theropithecus gelada",
+        "common": "Gelada",
+        "aliases": ["Bleeding-Heart Monkey", "Gelada Baboon"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Theropithecus"
+        }
+    },
+    {
+        "id": "p097",
+        "scientific": "Cercocebus agilis",
+        "common": "Agile Mangabey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Cercocebus"
+        }
+    },
+    {
+        "id": "p098",
+        "scientific": "Cercocebus torquatus",
+        "common": "Collared Mangabey",
+        "aliases": ["Red-Capped Mangabey", "White-Collared Mangabey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Cercocebus"
+        }
+    },
+    {
+        "id": "p099",
+        "scientific": "Cercocebus chrysogaster",
+        "common": "Golden-Bellied Mangabey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Cercocebus"
+        }
+    },
+    {
+        "id": "p100",
+        "scientific": "Cercocebus sanjei",
+        "common": "Sanje Mangabey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Cercocebus"
+        }
+    },
+    {
+        "id": "p101",
+        "scientific": "Cercocebus atys",
+        "common": "Sooty Mangabey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Cercocebus"
+        }
+    },
+    {
+        "id": "p102",
+        "scientific": "Cercocebus galeritus",
+        "common": "Tana River Mangabey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Cercocebus"
+        }
+    },
+    {
+        "id": "p103",
+        "scientific": "Cercocebus lunulatus",
+        "common": "White-Naped Mangabey",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Cercocebus"
+        }
+    },
+    {
+        "id": "p104",
+        "scientific": "Mandrillus leucophaeus",
+        "common": "Drill",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Mandrillus"
+        }
+    },
+    {
+        "id": "p105",
+        "scientific": "Mandrillus sphinx",
+        "common": "Mandrill",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Cercopithecinae",
+            "tribe": "Papionini",
+            "subtribe": null,
+            "genus": "Mandrillus"
+        }
+    },
+    {
+        "id": "p106",
+        "scientific": "Colobus angolensis",
+        "common": "Angola Colobus",
+        "aliases": ["Angolan Black-and-White Colobus", "Angolan Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Colobus"
+        }
+    },
+    {
+        "id": "p107",
+        "scientific": "Colobus satanas",
+        "common": "Black Colobus",
+        "aliases": ["Satanic Black Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Colobus"
+        }
+    },
+    {
+        "id": "p108",
+        "scientific": "Colobus polykomos",
+        "common": "King Colobus",
+        "aliases": ["Western Black-and-White Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Colobus"
+        }
+    },
+    {
+        "id": "p109",
+        "scientific": "Colobus guereza",
+        "common": "Mantled Guereza",
+        "aliases": ["Guereza", "Eastern Black-and-White Colobus", "Abyssinian Black-and-White Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Colobus"
+        }
+    },
+    {
+        "id": "p110",
+        "scientific": "Colobus vellerosus",
+        "common": "Ursine Colobus",
+        "aliases": ["White-Thighed Colobus", "Geoffroy's Black-and-White Colobus", "White-Thighed Black-and-White Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Colobus"
+        }
+    },
+    {
+        "id": "p111",
+        "scientific": "Colobus congoensis",
+        "common": "Likweli",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Colobus"
+        }
+    },
+    {
+        "id": "p112",
+        "scientific": "Piliocolobus bouvieri",
+        "common": "Bouvier's Red Colobus",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p113",
+        "scientific": "Piliocolobus foai",
+        "common": "Foa's Red Colobus",
+        "aliases": ["Central African Red Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p114",
+        "scientific": "Piliocolobus langi",
+        "common": "Lang's Red Colobus",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p115",
+        "scientific": "Piliocolobus parmentieri",
+        "common": "Lomami Red Colobus",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p116",
+        "scientific": "Piliocolobus waldronae",
+        "common": "Miss Waldron's Red Colobus",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p117",
+        "scientific": "Piliocolobus epieni",
+        "common": "Niger Delta Red Colobus",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p118",
+        "scientific": "Piliocolobus oustaleti",
+        "common": "Oustalet's Red Colobus",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p119",
+        "scientific": "Piliocolobus pennantii",
+        "common": "Pennant's Colobus",
+        "aliases": ["Pennant's Red Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p120",
+        "scientific": "Piliocolobus preussi",
+        "common": "Preuss's Red Colobus",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p121",
+        "scientific": "Piliocolobus semlikiensis",
+        "common": "Semliki Red Colobus",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p122",
+        "scientific": "Piliocolobus rufomitratus",
+        "common": "Tana River Red Colobus",
+        "aliases": ["Eastern Red Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p123",
+        "scientific": "Piliocolobus tholloni",
+        "common": "Thollon's Red Colobus",
+        "aliases": ["Tshuapa Red Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p124",
+        "scientific": "Piliocolobus gordonorum",
+        "common": "Udzungwa Red Colobus",
+        "aliases": ["Uzungwa Red Colobus", "Iringa Red Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p125",
+        "scientific": "Piliocolobus tephrosceles",
+        "common": "Ugandan Red Colobus",
+        "aliases": ["Ashy Red Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p126",
+        "scientific": "Piliocolobus badius",
+        "common": "Western Red Colobus",
+        "aliases": ["Bay Red Colobus", "Rust Red Colobus", "Upper Guinea Red Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p127",
+        "scientific": "Piliocolobus kirkii",
+        "common": "Zanzibar Red Colobus",
+        "aliases": ["Kirk's Red Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Piliocolobus"
+        }
+    },
+    {
+        "id": "p128",
+        "scientific": "Procolobus versus",
+        "common": "Olive Colobus Monkey",
+        "aliases": ["Green Colobus", "Van Beneden's Colobus"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Colobini",
+            "subtribe": null,
+            "genus": "Procolobus"
+        }
+    },
+    {
+        "id": "p129",
+        "scientific": "Trachypithecus margarita",
+        "common": "Annamese Langur",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p130",
+        "scientific": "Trachypithecus pileatus",
+        "common": "Capped Langur",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p131",
+        "scientific": "Trachypithecus poliocephalus",
+        "common": "Cat Ba Langur",
+        "aliases": ["Golden-Headed Langur"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p132",
+        "scientific": "Trachypithecus delacouri",
+        "common": "Delacour's Langur",
+        "aliases": ["Delacour's Lutung"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p133",
+        "scientific": "Trachypithecus obscurus",
+        "common": "Dusky Leaf Monkey",
+        "aliases": ["Spectacled Langur", "Spectacled Leaf Monkey"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p134",
+        "scientific": "Trachypithecus auratus",
+        "common": "East Javan Langur",
+        "aliases": ["Ebony Lutung", "Javan Langur", "Javan Lutung"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p135",
+        "scientific": "Trachypithecus francoisi",
+        "common": "François' Langur",
+        "aliases": ["Francois' Leaf Monkey", "Tonkin Leaf Monkey", "White Side-Burned Black Langur"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p136",
+        "scientific": "Trachypithecus geei",
+        "common": "Gee's Golden Langur",
+        "aliases": ["Golden Langur"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p137",
+        "scientific": "Trachypithecus germaini",
+        "common": "Germain's Langur",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p138",
+        "scientific": "Trachypithecus hatinhensis",
+        "common": "Hatinh Langur",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p139",
+        "scientific": "Trachypithecus ebenus",
+        "common": "Indochinese Black Langur",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p140",
+        "scientific": "Trachypithecus crepuscula",
+        "common": "Indochinese Grey Langur",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p141",
+        "scientific": "Trachypithecus laotum",
+        "common": "Laotian Langur",
+        "aliases": ["White-Browed Black Langur"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p142",
+        "scientific": "Trachypithecus phayrei",
+        "common": "Phayre's Leaf Monkey",
+        "aliases": ["Phayre's Langur"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p143",
+        "scientific": "Trachypithecus popa",
+        "common": "Popa Langur",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p144",
+        "scientific": "Trachypithecus shortridgei",
+        "common": "Shortridge's Langur",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p145",
+        "scientific": "Trachypithecus selangorensis",
+        "common": "Selangor Silvered Langur",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p146",
+        "scientific": "Trachypithecus cristatus",
+        "common": "Silvery Lutung",
+        "aliases": ["Silvered Leaf Monkey", "Silvery Langur"],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p147",
+        "scientific": "Trachypithecus barbei",
+        "common": "Tenasserim Lutung",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p148",
+        "scientific": "Trachypithecus mauritius",
+        "common": "West Javan Langur",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
+        }
+    },
+    {
+        "id": "p149",
+        "scientific": "Trachypithecus leucocephalus",
+        "common": "White-Headed Langur",
+        "aliases": [],
+        "taxonomy": {
+            "suborder": "Haplorhini",
+            "infraorder": "Simiiformes",
+            "parvorder": "Catarrhini",
+            "superfamily": "Hominoidea",
+            "family": "Cercopithecidae",
+            "subfamily": "Colobinae",
+            "tribe": "Presbytini",
+            "subtribe": "Langur group",
+            "genus": "Trachypithecus"
         }
     }
 ]
